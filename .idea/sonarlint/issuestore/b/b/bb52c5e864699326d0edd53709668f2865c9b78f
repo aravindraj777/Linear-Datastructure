@@ -1,0 +1,9 @@
+
+K
+java:S1854*"5Remove this useless assignment to local variable "k".(ÂñÑş
+<
+java:S1481*"&Remove this unused "k" local variable.(ÂñÑş
+@	java:S1061"+Replace this use of System.out by a logger.(®¸—ù
+@	java:S1064"+Replace this use of System.out by a logger.(ÿ¾å
+R
+java:S1128"<Remove this unused import 'javax.management.StringValueExp'.(¦…ş¼

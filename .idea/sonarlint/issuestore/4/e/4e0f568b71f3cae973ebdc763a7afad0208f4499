@@ -1,0 +1,7 @@
+
+d
+java:S1192B"IDefine a constant instead of duplicating this literal "ARAVIND" 11 times.(…ŒÏÇûÿÿÿÿ
+b	java:S101>"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°ƒÔì
+E	java:S106/"+Replace this use of System.out by a logger.(¼–ôıÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(Ï©¬°ıÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ

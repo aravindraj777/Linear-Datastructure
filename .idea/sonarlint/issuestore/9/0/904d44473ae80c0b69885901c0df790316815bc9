@@ -1,0 +1,6 @@
+
+g	java:S1019"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘´Ä«øÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(®¸—ù
+@	java:S1062"+Replace this use of System.out by a logger.(ÿ¾å
+`
+java:S1128"ERemove this unused import 'java.util.concurrent.LinkedBlockingDeque'.(ÌÇœüÿÿÿÿ
